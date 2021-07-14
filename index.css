@@ -1,0 +1,63 @@
+body{
+    background-image:url("background.jpg");
+    height: 950px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+
+
+#contenitore{
+padding: 20px;
+background: rgba(0, 0, 0, 0.4);
+margin:9%
+}
+
+#sottologo{
+  color: lime;
+}
+
+section{
+  color: white;
+  line-height: 4px
+}
+
+#logo{
+ width: 250px;
+}
+
+header{
+  text-align: center;
+}
+
+nav{
+  text-align: center;
+  background: 50px lime;
+  padding: 1%
+}
+
+.testo-box{
+  display: inline-block;
+}
+
+.orange{
+  height: 20px;
+  width: 200px;
+  background-color: orange;
+  border-radius: 5px;
+}
+
+.green{
+  height: 20px;
+  width: 500px;
+  background-color: lime;
+  border-radius: 5px;
+}
+
+.red{
+  height: 20px;
+  width: 50px;
+  background-color: red;
+  border-radius: 5px;
+}
